@@ -66,7 +66,7 @@ $$m_{f} = \frac {f_{tri}}{f_{sine}} .......... (4)$$
 
 <center>
 
-$$m_{a} = \frac {V_{m~sine}}{V_{m~tri}} .......... (5)$$
+$$m_a = \frac {V_{m}sine} {V_{m}tri} .......... (5)$$
 
 </center>
 
